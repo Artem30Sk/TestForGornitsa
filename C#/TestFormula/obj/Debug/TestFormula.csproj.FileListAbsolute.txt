@@ -1,0 +1,14 @@
+C:\Users\artem\source\repos\TestFormula\bin\Debug\TestFormula.exe.config
+C:\Users\artem\source\repos\TestFormula\bin\Debug\TestFormula.exe
+C:\Users\artem\source\repos\TestFormula\bin\Debug\TestFormula.pdb
+C:\Users\artem\source\repos\TestFormula\obj\Debug\TestFormula.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\TestFormula\obj\Debug\TestFormula.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\TestFormula\obj\Debug\TestFormula.exe
+C:\Users\artem\source\repos\TestFormula\obj\Debug\TestFormula.pdb
+C:\Users\artem\Documents\GitHub\TestForGornitsa\C#\TestFormula\bin\Debug\TestFormula.exe.config
+C:\Users\artem\Documents\GitHub\TestForGornitsa\C#\TestFormula\bin\Debug\TestFormula.exe
+C:\Users\artem\Documents\GitHub\TestForGornitsa\C#\TestFormula\bin\Debug\TestFormula.pdb
+C:\Users\artem\Documents\GitHub\TestForGornitsa\C#\TestFormula\obj\Debug\TestFormula.csproj.AssemblyReference.cache
+C:\Users\artem\Documents\GitHub\TestForGornitsa\C#\TestFormula\obj\Debug\TestFormula.csproj.CoreCompileInputs.cache
+C:\Users\artem\Documents\GitHub\TestForGornitsa\C#\TestFormula\obj\Debug\TestFormula.exe
+C:\Users\artem\Documents\GitHub\TestForGornitsa\C#\TestFormula\obj\Debug\TestFormula.pdb
